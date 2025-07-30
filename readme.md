@@ -29,7 +29,7 @@ A simple user authentication system built with **Node.js**, **Express**, **Mongo
 
 ## 📁 Project Structure
 
-
+```
 express-auth-app/
 │
 ├── app.js # Main application file
@@ -41,7 +41,7 @@ express-auth-app/
 ├── public/ # Static assets (optional)
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
