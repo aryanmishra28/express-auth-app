@@ -80,7 +80,7 @@ http://localhost:3000
 ```
 node_modules/
 .env
-
+```
 ## 👨‍💻 Author
 
 Made with ❤️ by **Aryan Mishra**
